@@ -32,7 +32,7 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </div>
 <br />
